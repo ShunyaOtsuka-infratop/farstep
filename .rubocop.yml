@@ -18,6 +18,7 @@ AllCops:
     - "config/environments/*.rb"
     - "Gemfile"
     - "Rakefile"
+    - "TargetRubyVersion: 3.1"
 
 Style/FrozenStringLiteralComment:
   Enabled: false
